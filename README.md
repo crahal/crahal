@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning: JavaScript (D3)/Ruby/related. Also doing some AWS certs!
 - 👯 I’m looking to collaborate on: new tools and databases for open social science.
 - 🤔 I’m looking for help with: the mathematics of randomness in academic research.
-- 💬 Ask me about: Anything about the Python ecosystem for data analysis!
+- 💬 Ask me about: Anything to do with the Python ecosystem for data analysis!
