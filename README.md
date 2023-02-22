@@ -7,6 +7,7 @@
 
 - 🛠️ I’m currently working on: Open source tools and analyses for reproducible social science.
 - 📝 Background: High dimensional econometrics and finance.
+- 👀 Interested in: Observational social inequalities in Big Data.
 - 🌱 I’m currently learning: JavaScript (D3)/Ruby/related. Also doing some AWS certs!
 - 👯 I’m looking to collaborate on: new tools and databases for open social science.
 - 🤔 I’m looking for help with: the mathematics of randomness in academic research.
