@@ -5,7 +5,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=crahal" alt="visitor badge"/></p>
 
 
-- 🛠️ I’m currently working on: Open source tools for reproducible social science.
+- 🛠️ I’m currently working on: Open source tools and analyses for reproducible social science.
 - 📝 Background: High dimensional econometrics and finance.
 - 🌱 I’m currently learning: JavaScript (D3)/Ruby/related. Also doing some AWS certs!
 - 👯 I’m looking to collaborate on: new tools and databases for open social science.
