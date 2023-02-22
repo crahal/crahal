@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm [Charlie](https://www.github.com/crahal)!
 
-<!--
-**crahal/crahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/crahal?style=social)](https://www.github.com/crahal)
+[![Website Badge](https://img.shields.io/badge/-crahal.github.io-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://crahal.github.io/)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=crahal" alt="visitor badge"/></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I’m currently working on: Open source tools for reproducible social science.
+- 📝 Background: High dimensional econometrics and finance.
+- 🌱 I’m currently learning: JavaScript (D3)/Ruby/related. Also doing some AWS certs!
+- 👯 I’m looking to collaborate on: new tools and databases for open social science.
+- 🤔 I’m looking for help with: the mathematics of randomness in academic research.
+- 💬 Ask me about: Anything about the Python ecosystem for data analysis!
