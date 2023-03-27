@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Charlie](https://www.github.com/crahal)!
+### Hi there 👋, I'm [Charlie](https://crahal.github.io/)!
 
 [![GitHub followers](https://img.shields.io/github/followers/crahal?style=social)](https://www.github.com/crahal)
 [![Website Badge](https://img.shields.io/badge/-crahal.github.io-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://crahal.github.io/)
